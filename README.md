@@ -11,7 +11,7 @@ Smooth team
 ===========
 
 * [Josue Kouka](http://josuebrunel.org)
-* [Maxime Defachelle](http://maximedefachelle.com)
+* [Maxime Defachelle](http://maximedefachelle.fr)
 * [Quentin](http://sosmooth.fr)
 
 
