@@ -1,6 +1,6 @@
 from app import app
-from flask import g, render_template, redirect, url_for, session, flash
-
+from flask import g, session, flash
+from flask import redirect, render_template, url_for
 
 #Index view
 @app.route('/')
