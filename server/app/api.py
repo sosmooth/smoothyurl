@@ -22,7 +22,7 @@ def smoothy():
         'format': TINY_API_FORMAT,
         'url': url,
     }
-    response = requests.get(TINY_API_URL, params= payload)
+    response = requests.get(TINY_API_URL, params=payload)
 
     try:
         json = response.json()

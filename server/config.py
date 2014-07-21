@@ -4,7 +4,7 @@ from uuid import uuid4
 basedir = os.path.abspath(os.path.dirname(__file__))
 
 CSFR_ENABLED = True
-SECRET_KEY = uuid4()
+SECRET_KEY = uuid4().hex
 
 #SHORTENER SERVICE SETTINGS
 TINY_API_URL = 'http://tiny-url.info/api/v1/create'
