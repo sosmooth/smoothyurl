@@ -7,4 +7,5 @@ CSFR_ENABLED = True
 SECRET_KEY = uuid4()
 
 #TINY URL
-TINY_URL = 'http://tinyurl.com/api-create.php'
+TINY_API_URL = 'http://tiny-url.info/api/v1/create'
+TINY_API_KEY = '8A6CIC8081B6BC5G5A07'
